@@ -10,3 +10,11 @@ This script performs the following tasks:
     apt clean: Cleans up the package cache by removing any packages that are no longer needed. This can help free up additional disk space.
 
 To use this script, copy and paste the code into a text editor, save the file as update-upgrade.sh, and make it executable with the following command:
+
+chmod +x update-upgrade.sh
+
+Then, you can run the script with the following command:
+
+./update-upgrade.sh
+
+I hope this helps! Let me know if you have any other questions or need further assistance.
